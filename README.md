@@ -1,1 +1,1 @@
-<img src="https://github.com/patrickshox/patrickshox/blob/master/README.md/octocat-2.png" alt="custom octocat" width="100"> Check out my [YouTube channel](https://www.youtube.com/channel/UCqsO1sCUWVMXkGnBimU1kmA).
+<img src="https://github.com/patrickshox/patrickshox/blob/master/octocat-2.png" alt="custom octocat" width="100"> Check out my [YouTube channel](https://www.youtube.com/channel/UCqsO1sCUWVMXkGnBimU1kmA).
