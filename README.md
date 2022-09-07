@@ -16,7 +16,7 @@ As the founder of Appccessibility Shox, I code open-source apps extensions for d
 
 ### Socials
 - My embarrassing, [secret_youtube_channel.html](https://www.youtube.com/channel/UCqsO1sCUWVMXkGnBimU1kmA). 
-- My [reddit.html](https://www.reddit.com/user/patrickshox) where I try to answer questions related to stats & R, moderate the [r/SafariExtensionsDevs](https://www.reddit.com/r/SafariExtensionDevs/) subreddit, and post [banger comments](https://www.reddit.com/r/rstats/comments/u3xg1b/comment/i4sk56y/?utm_source=share&utm_medium=web2x&context=3).
+- My [reddit.html](https://www.reddit.com/user/patrickshox) where I try to answer questions related to stats & R & moderate the [r/SafariExtensionsDevs](https://www.reddit.com/r/SafariExtensionDevs/) subreddit.
 
 ### Chess
 Check out the single-player game, [blindfold-chess-trainer](https://patrickshox.github.io/blindfold-chess-trainer/), and its multiplayer counterpart https://square-off.live/ (still under development). Challenge me on [chess.com](https://www.chess.com/member/patrickshox).
