@@ -1,12 +1,12 @@
 ### Hi, I'm <img src='https://user-images.githubusercontent.com/47332449/187030265-f5a36b7e-1037-4d8f-90e5-02b9e76872b2.gif' width = '19'/>trick 👋
 ```diff 
-- I'm a student
+- I'm a full-time research tech, 
+- student,
 # class of 2020 :`)
-- I'm a full-time research tech,
-+ Founder of Appccessibility Shox,
-+ YouTuber,
-+ chess addict and 
-+ software developer
++ I'm a software developer, 
++ founder,
++ YouTuber, and
++ chess addict 
 ```
 ### Research
 In my research at Duke and MGH, I've stained brains <img src='https://user-images.githubusercontent.com/47332449/187027789-515c545f-4450-4b8b-9c0c-70aa7c1e3cee.png' width='50'/>... co-authored a [fancy_paper.pdf](https://github.com/patrickshox/patrickshox/files/9437860/Publication.pdf) <img src='https://user-images.githubusercontent.com/47332449/187028424-e1c47112-ce1b-486a-8439-8e298f3f1824.png' width='30'>... analyzed **_lots_** of data in R <img src='https://user-images.githubusercontent.com/47332449/187027922-80ec47d5-acba-46e6-9096-a5378c15b1da.gif' width='50'/>... and collaborated on [fancy_ai_projects.pdf](https://github.com/patrickshox/patrickshox/files/9437847/DeepLesion.Poster.pdf) <img width="40" alt="Screen Shot 2022-08-27 at 6 36 50 AM" src="https://user-images.githubusercontent.com/47332449/187028494-6e69f3a9-c883-4b5a-b053-292133b65cdc.png">.
