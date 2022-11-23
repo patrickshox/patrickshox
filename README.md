@@ -4,8 +4,8 @@ I'm a:
 - researcher,
 - student,
 # class of 2020 :`)
-+ I'm an L5 software development engineer @Amazon, 
-+ founder,
++ software development engineer (L5) @Amazon, 
++ founder of @AppccessibilityShox,
 + YouTuber, and
 + chess addict 
 ```
