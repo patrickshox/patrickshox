@@ -1,9 +1,10 @@
 ### Hi, I'm <img src='https://user-images.githubusercontent.com/47332449/187030265-f5a36b7e-1037-4d8f-90e5-02b9e76872b2.gif' width = '19'/>trick 👋
 ```diff 
-- I'm a researcher,
+I'm a:
+- researcher,
 - student,
 # class of 2020 :`)
-+ I'm a software developer, 
++ I'm an L5 software development engineer @Amazon, 
 + founder,
 + YouTuber, and
 + chess addict 
