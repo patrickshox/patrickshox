@@ -4,7 +4,7 @@ I'm a:
 - researcher,
 - student,
 # class of 2020 :`)
-+ software development engineer (L5) @Amazon, 
++ software development engineer (L5) @AmazonWebServices, 
 + founder of @AppccessibilityShox,
 + YouTuber, and
 + chess addict 
