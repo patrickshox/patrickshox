@@ -3,7 +3,6 @@
 I'm a:
 - researcher,
 - student,
-# class of 2020 :`)
 + software development engineer (L5) at @AWS, 
 + founder of @AppccessibilityShox,
 + YouTuber, and
