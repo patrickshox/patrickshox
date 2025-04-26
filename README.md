@@ -10,7 +10,7 @@ I'm a:
 ```
 
 ### Amazon
-At Amazon, I worked to develop secure, highly-available systems for Amazonians to access internal tools & services.
+At Amazon, I initially worked to develop secure, highly-available systems for Amazonians to establish trust with internal tools & services. After moving to the FinTech org and joining the LYRA (Lidquidity, Risk, and Applied ML) team, I'm working with AWS Glue, LakeFormation, and more to build intelligence into the Amazon treasury, Amazon claims management, and beyond.
 
 ### Research
 In my research at Duke and MGH, I've stained brains <img width="50" alt="stain" src="https://github.com/user-attachments/assets/15662e0c-290f-4a9b-8a13-1e040e26067b" />
