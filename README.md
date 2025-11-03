@@ -24,6 +24,6 @@ As founder of [Appccessibility Shox](https://github.com/Appccessibility-Shox), I
 - My [reddit.html](https://www.reddit.com/user/patrickshox) where I try to answer questions related to stats & R & moderate the [r/SafariExtensionsDevs](https://www.reddit.com/r/SafariExtensionDevs/) subreddit.
 
 ### Chess
-Check out the single-player game, [blindfold-chess-trainer](https://patrickshox.github.io/blindfold-chess-trainer/), and its multiplayer counterpart https://square-off.live/ (still under development). Challenge me on [chess.com](https://www.chess.com/member/patrickshox).
+Check out the single-player game, [blindfold-chess-trainer](https://patrickshox.github.io/blindfold-chess-trainer/), and its multiplayer counterpart https://square-off.live/ (still under development). Challenge me on [chess.com](https://www.chess.com/member/patrickforx).
 
 
