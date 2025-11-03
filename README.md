@@ -26,4 +26,6 @@ As founder of [Appccessibility Shox](https://github.com/Appccessibility-Shox), I
 ### Chess
 Check out the single-player game, [blindfold-chess-trainer](https://patrickshox.github.io/blindfold-chess-trainer/), and its multiplayer counterpart https://square-off.live/ (still under development). Challenge me on [chess.com](https://www.chess.com/member/patrickforx).
 
-
+### Publications
+- ["Electroconvulsive Stimulation Increases Astrocytes In Mice Subjected To Chronic Social Defeat Stress"](https://www.brainstimjrnl.com/article/S1935-861X(18)31210-5/abstract)
+- ["Behavioral Changes and Glial Staining in Mice Subjected to the Chronic Social Defeat Stress Followed by Electroconvulsive Stimulation"](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(19)30587-6/abstract)
