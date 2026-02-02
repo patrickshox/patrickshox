@@ -9,8 +9,11 @@ I'm a:
 + chess addict 
 ```
 
+### Rokt
+At Rokt, I have the chance to work on the Rokt Global Infrastructure (RGI) team at a high-growth, global ecommerce technology company helping businesses deliver relevance for customers in the transaction moment.
+
 ### Amazon
-At Amazon, I initially worked to develop secure, highly-available systems for Amazonians to establish trust with internal tools & services. After moving to the FinTech org and joining the LYRA (Lidquidity, Risk, and Applied ML) team, I'm working with AWS Glue, LakeFormation, SageMaker and more to build intelligence into the Amazon treasury, Amazon claims management, and beyond.
+At Amazon, I initially worked to develop secure, highly-available systems for Amazonians to establish trust with internal tools & services on the Enterprise Engineerign team. After moving to the FinTech org and joining the LYRA (Lidquidity, Risk, and Applied ML) team, I worked with AWS Glue, LakeFormation, SageMaker and more to build intelligence into the Amazon treasury, Amazon claims management, and beyond.
 
 ### Research
 In my research at Duke and MGH, I've stained brains <img width="50" alt="stain" src="https://github.com/user-attachments/assets/15662e0c-290f-4a9b-8a13-1e040e26067b" />
